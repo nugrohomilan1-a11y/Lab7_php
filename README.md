@@ -63,19 +63,29 @@ Project dikerjakan secara bertahap dengan urutan berikut:
    <img width="515" height="126" alt="5 1" src="https://github.com/user-attachments/assets/ee04039f-6bad-4da0-a88a-884d2d423ce8" />
 
 
-6. **Latihan 5:** Memproses data pencarian menggunakan metode GET.
-   <img width="428" height="233" alt="6" src="https://github.com/user-attachments/assets/90fc7899-c4dd-47fe-a1ae-4a2de2a36655" />
+5. **Latihan 5:** Memproses data pencarian menggunakan metode GET.
+    <img width="361" height="166" alt="5" src="https://github.com/user-attachments/assets/3299fe4d-6458-4f6a-9440-46054b1907aa" />
+
+   <img width="515" height="126" alt="5 1" src="https://github.com/user-attachments/assets/f3dc33f0-b12f-4a4d-b14e-8ce1e52267c2" />
+
+
+6. **Latihan 6:** Menerima dan memvalidasi data mahasiswa menggunakan metode POST.
+   <img width="428" height="233" alt="6" src="https://github.com/user-attachments/assets/865dec02-19c8-4d0e-85be-6011b897d495" />
    
-   <img width="477" height="148" alt="6 1" src="https://github.com/user-attachments/assets/f81a981e-d4ea-472b-9c68-4d029f7d0d12" />
-
-7. **Latihan 6:** Menerima dan memvalidasi data mahasiswa menggunakan metode POST.
-   <img width="431" height="338" alt="7" src="https://github.com/user-attachments/assets/c816a34c-6c42-4034-9b0f-3bfc0a3540ca" />
-
-   <img width="467" height="151" alt="7 1" src="https://github.com/user-attachments/assets/82e05d4f-4d74-4c7b-a0ff-eb80c68c2b44" />
+   <img width="477" height="148" alt="6 1" src="https://github.com/user-attachments/assets/7d3a4336-1c08-486e-9b76-101e7f471de3" />
 
 
-8. **Latihan 7:** Mengolah data transaksi barang dan menghitung subtotal.
-9. **Mini Project:** Membuat formulir data mahasiswa dengan validasi dan menampilkan hasil data yang telah dikirim.
+.7 **Latihan 7:** Mengolah data transaksi barang dan menghitung subtotal.
+   <img width="431" height="338" alt="7" src="https://github.com/user-attachments/assets/b6290704-df80-4858-91d8-46f9f6a1ed0d" />
+   
+   <img width="467" height="151" alt="7 1" src="https://github.com/user-attachments/assets/6dd7bd43-0c5f-4bee-99b3-6cb0397398ae" />
+
+8. **Mini Project:** Membuat formulir data mahasiswa dengan validasi dan menampilkan hasil data yang telah dikirim.
+    <img width="677" height="388" alt="Screenshot 2026-11-09 161658" src="https://github.com/user-attachments/assets/fc3eea65-6cfe-4937-9df4-18c33938cc25" />
+
+   <img width="524" height="423" alt="Screenshot 2026-11-09 161716" src="https://github.com/user-attachments/assets/71b9b279-b28f-483d-b18d-8c58e90d4abe" />
+
+
 
 ## 6. Cara Menjalankan Project
 1. Buka XAMPP Control Panel.
